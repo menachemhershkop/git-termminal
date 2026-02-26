@@ -1,0 +1,3 @@
+Water: 20
+Fuel: 10
+Food: 50

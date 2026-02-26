@@ -1,0 +1,2 @@
+Enemy activity: Low
+Risk level: Green
